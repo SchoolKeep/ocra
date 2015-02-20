@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path("../lib/ocra/version", __FILE__)
+require File.expand_path("../lib/ocra", __FILE__)
 
 Gem::Specification.new do |s|
   s.name = "ocra"
